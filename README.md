@@ -11,6 +11,9 @@ Database Explorer is a full-stack application that enables users to connect to a
 - **AI-Powered Agents:** Utilize AI agents (built with LangGraph, Ollama, and OpenRouter) to assist with query generation, optimization, and data analysis.
 - **Responsive UI:** A sleek, intuitive frontend interface with tabs for table structure, SQL queries, query results, and streaming data.
 
+## Demo
+Watch the live demo of the Database Explorer in action: [View Demo](https://www.loom.com/share/0c7613b2acc94d9d90f71c6f09dc180d)
+
 ## Tech Stack
 ### Backend
 - **Node.js & Express:** For building the RESTful API.
